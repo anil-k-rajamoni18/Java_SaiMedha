@@ -187,6 +187,25 @@ public class HelloWorld {
 
 
 
+##### Compiler vs Interperter.
+
+ [![N|Solid](https://i.imgur.com/yRtGS9n.png)](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)
+
+## Command line arguments.
+- The java command-line argument is an argument i.e. passed at the time of running the java program.
+- The arguments passed from the console can be received in the java program and it can be used as an input
+    ```java
+    
+    class CommandLineExample{  
+            public static void main(String args[]){  
+                    System.out.println("Your first argument is: "+args[0]);  
+                }  
+            } 
+
+        compile : javac CommandLineExample.java
+        run : java CommandLineExample Hello World.
+```
+
 
 
 ## License

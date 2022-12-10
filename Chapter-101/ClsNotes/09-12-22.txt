@@ -1,0 +1,29 @@
+OBSERVATIONS 
+===================
+
+### COMPILING & RUNNING
+	javac fileName.java
+	java clasName
+
+1. When class is public , fileName must be same as className.
+2. When Class is not public.
+	- compile with fileName
+	- run with className
+	- by default it will generate byte with className.
+	
+3. order of public static can be of different ways 
+		public static 
+		static public
+		
+		String[] args
+		String []args
+		String args[]
+4. You can compile java program , without main method , but we can't run it.
+5. Possible to have mutliple class's in one file , ---> creates mutliple .class files.
+		- when ever you have multiple .class files while running , execute with individual names.
+			java A
+			java B
+
+
+
+		

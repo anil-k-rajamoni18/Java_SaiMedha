@@ -56,7 +56,8 @@ valid variables:
         
 ## Keywords?
 
-[![N|Solid](https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/05/java-keywords.webp)](https://www.java.com/en/)
+[![N|Solid](https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/06/List-of-Java-Keywords.jpg)](https://www.javatpoint.com/java-keywords)
+
 `assert`	For debugging
 
 `strictfp`	Restrict the precision and rounding of floating point calculations
