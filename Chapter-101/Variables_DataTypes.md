@@ -86,8 +86,8 @@ valid variables:
 
 `Note: true, false, and null are not keywords, but they are literals and reserved words that cannot be used as identifiers.`
 
-### Types of Variables
-###### Local Variables
+## Types of Variables
+### Local Variables
 - These variables are created when the block is entered, or the function is called and destroyed after exiting from the block or when the call returns from the function.
 - The scope of these variables exists only within the block in which the variables are declared, i.e., we can access these variables only within that block.
 - Initialization of the local variable is mandatory before using it in the defined scope.
@@ -105,7 +105,7 @@ class Variable {
 }
 
 ```
-###### Instance Variables.
+### Instance Variables.
 >Instance variables are non-static variables and are declared in a class outside of any method, constructor, or block. 
 - As instance variables are declared in a class, these variables are created when an object of the class is created and destroyed when the object is destroyed.
 - Unlike local variables, we may use access specifiers for instance variables.
@@ -132,7 +132,7 @@ class A {
 }
 ```
 
-##### Static Variables
+### Static Variables
 > Static variables are also known as class variables. 
 
 - These variables are declared similarly as instance variables. The difference is that static variables are declared using the static keyword within a class outside of any method, constructor or block.

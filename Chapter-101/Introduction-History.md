@@ -187,7 +187,7 @@ public class HelloWorld {
 
 
 
-##### Compiler vs Interperter.
+## Compiler vs Interperter.
 
  [![N|Solid](https://i.imgur.com/yRtGS9n.png)](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)
 
