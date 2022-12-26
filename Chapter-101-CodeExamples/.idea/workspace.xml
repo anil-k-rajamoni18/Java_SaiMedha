@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a87223-5d35-4042-97c1-74a0acc6993b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/classs101/Introduction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter-101/ClsNotes/09-12-22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter-101/ClsNotes/09-12-22.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,16 +34,70 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/SaiMedha/Java-ECET/Chapter101-Code",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Introduction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.classs101.Introduction" />
-      <module name="Dec-Class" />
+  <component name="RunManager" selected="Application.TypeCasting">
+    <configuration name="StaticVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs101.Variables.StaticVariable" />
+      <module name="Chapter-101-CodeExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.classs101.*" />
+          <option name="PATTERN" value="com.classs101.Variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs101.datatypes.Test" />
+      <module name="Chapter-101-CodeExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classs101.datatypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs101.datatypes.Test2" />
+      <module name="Chapter-101-CodeExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classs101.datatypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs101.datatypes.TypeCasting" />
+      <module name="Chapter-101-CodeExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classs101.datatypes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypesOfVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs101.Variables.TypesOfVariables" />
+      <module name="Chapter-101-CodeExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classs101.Variables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,7 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Introduction" />
+        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.StaticVariable" />
+        <item itemvalue="Application.TypesOfVariables" />
       </list>
     </recent_temporary>
   </component>

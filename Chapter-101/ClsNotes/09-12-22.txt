@@ -1,3 +1,19 @@
+### PROGRAMMMING 
+	==> Introduction to Programming 
+		-->Simple ways for us to give instructions to computer to get task/work done.
+		--> Way of writing efficient instructions using particular LANG syntax+grammer+rules , is called PROGRAMMING LANG.
+		
+	==> Types :
+		### ML or BL or LowLevel
+			- Hard to write & understand , programming written using 0's 1's
+			- No need of transalation tools , we are writing programs directly in Binary bits.
+			
+		### Assembly Level
+			- Sligte
+
+
+
+
 OBSERVATIONS 
 ===================
 
