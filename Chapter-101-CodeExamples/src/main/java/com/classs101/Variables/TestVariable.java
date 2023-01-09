@@ -42,12 +42,12 @@ public class TestVariable {
 
         //valid
         String student$Name = "Raj";
-        int $ = 10;
+        int $1 = 10;
 
         float bookPrice=10.22f;
         System.out.println(bookPrice);
 
-        String _ = "Rajamoni";
+        String _lastName = "Rajamoni";
 
     }
 }

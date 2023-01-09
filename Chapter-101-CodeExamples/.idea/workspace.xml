@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a87223-5d35-4042-97c1-74a0acc6993b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Chapter-101/ClsNotes/09-12-22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter-101/ClsNotes/09-12-22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter-101/ClsNotes/18-12-2022.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter-101/ClsNotes/18-12-2022.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +31,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/SaiMedha/Java-ECET/Chapter101-Code",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SaiMedha/Java-Offline/Chapter-101-CodeExamples&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TypeCasting">
-    <configuration name="StaticVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.classs101.Variables.StaticVariable" />
+}</component>
+  <component name="RunManager" selected="Application.NestedLoops">
+    <configuration name="LoopingStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs102.controlstatements.LoopingStatements" />
       <module name="Chapter-101-CodeExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.classs101.Variables.*" />
+          <option name="PATTERN" value="com.classs102.controlstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.classs101.datatypes.Test" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs102.controlstatements.Loops" />
       <module name="Chapter-101-CodeExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.classs101.datatypes.*" />
+          <option name="PATTERN" value="com.classs102.controlstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.classs101.datatypes.Test2" />
+    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs102.controlstatements.NestedLoops" />
       <module name="Chapter-101-CodeExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.classs101.datatypes.*" />
+          <option name="PATTERN" value="com.classs102.controlstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.classs101.datatypes.TypeCasting" />
+    <configuration name="WhileExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs102.controlstatements.WhileExp" />
       <module name="Chapter-101-CodeExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.classs101.datatypes.*" />
+          <option name="PATTERN" value="com.classs102.controlstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypesOfVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.classs101.Variables.TypesOfVariables" />
+    <configuration name="forEachExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classs102.controlstatements.forEachExample" />
       <module name="Chapter-101-CodeExamples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.classs101.Variables.*" />
+          <option name="PATTERN" value="com.classs102.controlstatements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StaticVariable" />
-        <item itemvalue="Application.TypesOfVariables" />
+        <item itemvalue="Application.NestedLoops" />
+        <item itemvalue="Application.LoopingStatements" />
+        <item itemvalue="Application.WhileExp" />
+        <item itemvalue="Application.forEachExample" />
+        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -136,5 +136,39 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/classs101/operators/Bitwise.java</url>
+          <line>3</line>
+          <properties class="com.classs101.operators.Bitwise" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/StringOperations/StringBufferExample.java</url>
+          <line>3</line>
+          <properties class="StringOperations.StringBufferExample" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StringOperations/StringBufferExample.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/classs102/controlstatements/LoopingStatements.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
